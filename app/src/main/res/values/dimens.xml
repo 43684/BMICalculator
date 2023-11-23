@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_large">54sp</dimen>
+    <dimen name="text_size_medium">34sp</dimen>
+    <dimen name="text_size_small">24sp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+    <dimen name="padding_50">50dp</dimen>
+    <dimen name="margin_top">20dp</dimen>
+    <dimen name="corner_radius">30dp</dimen>
+    <dimen name="image_height">200dp</dimen>
+
+    <dimen name="pointer_sq_size">100dp</dimen>
+    <dimen name="pointer_layout_marginLeft">0dp</dimen>
+    <dimen name="pointer_layout_marginTop">0dp</dimen>
+    <dimen name="pointer_layout_marginRight">0dp</dimen>
+    <dimen name="pointer_layout_marginBottom">0dp</dimen>
+
+    <dimen name="text_height">50dp</dimen>
+
+</resources>
